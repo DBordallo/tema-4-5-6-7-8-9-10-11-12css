@@ -1,0 +1,7 @@
+#primer-elemento {
+    color: red;
+    }
+
+#articulos #primer-elemento {
+    font-size: 2rem;
+}
